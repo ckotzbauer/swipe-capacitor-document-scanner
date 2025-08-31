@@ -1,5 +1,5 @@
 {
-  "name": "swipe-capacitor-document-scanner",
+  "name": "@code-chris/swipe-capacitor-document-scanner",
   "version": "7.0.0",
   "description": "A Capacitor plugin that lets you scan documents using Android and iOS",
   "main": "dist/plugin.cjs.js",
